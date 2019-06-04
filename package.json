@@ -1,0 +1,18 @@
+{
+    "name": "parkinglot",
+    "version": "0.0.1",
+    "description": "Algorithm for parking lot problem",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "Dinesh Nagar (https://www.linkedin.com/in/dineshnagarit/)",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.1.4"
+    },
+    "dependencies": {}
+}
