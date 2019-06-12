@@ -30,8 +30,8 @@ Due to government regulation, the system should provide me with the ability to f
 
 Inputs:
 ----------------------
-create_parking_lot 6
-park KA-01-HH-1234 White
+create_parking_lot 6 <br />
+park KA-01-HH-1234 White <br />
 park KA-01-HH-9999 White
 park KA-01-BB-0001 Black
 park KA-01-HH-7777 Red
