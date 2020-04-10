@@ -1,7 +1,7 @@
 let Car = [];
 let maxSize = 0;
 let availableSlot = [];
-const utilFunctions = require('./helpers/util');
+const utilFunctions = require('./helpers/utils');
 
 
 let createParkingLot = async (noOfLot) => {
